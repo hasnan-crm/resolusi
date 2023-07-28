@@ -4,3 +4,5 @@ KONTEN BARU
 -POSTGRE
 
 test
+--view
+-procedure
