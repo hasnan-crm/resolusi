@@ -5,3 +5,4 @@ Resolusi Awal
 
 Resolusi Lanjutan
 - Library VB.Net
+- Widget
