@@ -4,3 +4,6 @@ KONTEN BARU
 -POSTGRE
 
 test
+--view
+-procedure
+- edit lagi
