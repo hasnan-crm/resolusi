@@ -4,3 +4,4 @@ KONTEN BARU
 -POSTGRE
 
 test
+--function
