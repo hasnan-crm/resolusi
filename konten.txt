@@ -4,4 +4,8 @@ KONTEN BARU
 -POSTGRE
 
 test
---function
+
+--view
+-procedure
+- edit lagi
+
